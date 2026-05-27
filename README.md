@@ -2,17 +2,18 @@
 **Senior Software Engineer in Test | QA Automation Engineer | Mobile & Web Testing Specialist**
 
 ## 🚀 About Me
-I’m a Senior QA Engineer with extensive experience across **mobile, web, and API ecosystems**, specialising in delivering quality at scale across complex, high-transaction systems. My work spans regulated, enterprise, and consumer platforms, giving me a strong understanding of how software behaves in real-world production environments where reliability, performance, and trust matter most.
+I’m a Senior QA Engineer with extensive experience across testing **mobile, web, and API ecosystems**, specialising in delivering quality at scale across complex, high-transaction systems. 
 
 I have deep domain exposure across **Disability Support / NDIS-aligned care platforms**, **Workforce management systems**, **Insurance technology platforms**, **Document Management platform**, **mobile security SDKs**, **travel booking portals**, **automotive marketplaces** — covering everything from high-volume search and booking systems to real-time, location-based service, payroll workflows, etc.
 Across these domains, I've focused on building release confidence through a balanced QA strategy combining manual expertise with scalable automation.
 
 Core QA Expertise
+* Functional, regression, smoke, UAT, and exploratory testing across enterprise systems
 * Web and API testing using Playwright, Selenium Webdriver, Cypress, Postman, REST validation, and SuperTest
-* Native and hybrid mobile automation for iOS and Android using XCUI Test, Android Espresso and Compose, Maestro and Selenium Webdriver 
+* Native and hybrid mobile automation for iOS using XCUI Test, Maestro and Selenium Webdriver
+* Native and hybrid mobile automation for Android using Android Espresso and Compose, Maestro and Selenium Webdriver 
 * Cross-browser and real-device testing using BrowserStack and Firebase Test Lab
 * CI/CD-integrated QA pipelines designed for fast, reliable, and scalable releases
-* Functional, regression, smoke, UAT, and exploratory testing across enterprise systems
 
 Current Focus Areas
 * 🔭 Building scalable automation frameworks across Web, iOS, and Android
